@@ -1,0 +1,40 @@
+/*
+* @Author: Administrator
+* @Date:   2017-09-04 16:40:05
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-09-04 17:39:27
+*/
+html {
+  font-size: 10px; /* px 意为“像素（pixels）”: 这个基础字体的尺寸现在是10像素  */
+  font-family: "微软雅黑","宋体";
+  background-color:red;
+}
+
+body {
+	width: 800px;
+	margin: 0 auto;
+	background-color: #ccc;
+	padding: 0 20px,20px,20px;
+	border: 5px solid black;
+}
+
+h3 {
+	font-size: 60px;
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	color: red;
+	text-shadow:3px 3px 1px black;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+p,li {
+	margin: 0 20px;
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
